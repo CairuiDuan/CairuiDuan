@@ -1,4 +1,4 @@
-## Hello, my name is Cairui and I added this to get Github CoPilot as a student
+## Hello, my name is Cairui
 
 <!--
 **CairuiDuan/CairuiDuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
